@@ -1,0 +1,6 @@
+export const ARTICLE_REQUEST = "ARTICLE_REQUEST";
+export const ARTICLE_SUCCESS = "ARTICLE_SUCCESS";
+export const ARTICLE_FAIL = "ARTICLE_FAIL";
+export const ARTICLE_RESET = "ARTICLE_RESET";
+
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
